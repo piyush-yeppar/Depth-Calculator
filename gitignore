@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+depth/
+ENV/
+depth
+.env
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables (✅ Don't push your Gemini API key)
+.env
+
+# VSCode and other IDE configs
+.vscode/
+*.code-workspace
+
+# Streamlit cache and logs
+.streamlit/
+*.log
+
+# macOS system files
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pytest cache
+.pytest_cache/
+
+# Hugging Face specific
+output/
